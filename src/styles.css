@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+body{
+    height: 100%;
+   /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); */
+   /* background-image: linear-gradient(to right, red , yellow); */
+   width: 100%;
+
+  }
+
+.login-page {
+    background-color: #042743;
+}
+  
